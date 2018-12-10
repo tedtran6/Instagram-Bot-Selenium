@@ -44,4 +44,6 @@ I also included a lot of other ways to interact with Instagram and Instagram aud
 
 The project was compiled in python 3.7
 
+I'd also like to get this project working with SQL, and compile a list of users who currently follow me, and a list of users who I've followed in the past. If I do this, I can prevent accidentally following people who I do not need to target. 
+
 This is currently unfinished, but I intend on working on it some more later. 
