@@ -22,6 +22,15 @@ The particular strategy I was aiming for was in order to get the maximum amount 
     
 From this strategy we should be able follow quite a bit of people. 
 
+**Concerining the limits Instagram puts on users:** Instagram purposely sets a lot of invisible limits against the user which prevent mass following and botting. Here are some ways that my program gets around that. 
+* For every person the bot follows or request to follow, it can set a wait time in between.
+    * This helps create a kind of cooldown.
+* For every *n* (burst_follows) people the bot follows in one "burst", it will wait for *t* time (time_burst_interval)
+    * This time is supposed to be longer than the normal cooldown time, as a kind of a longer cooldown time.
+    * The suggested times the bot uses are 35 burst follows, and 700 seconds for the interval until the next 35 follows.
+* For every 399 people that the bot follows in one "session", it will wait for a random time which is 43200 seconds plus some random amount of time.
+* For every time the bot detects that Instagram is preventing the bot from following people, it waits for a random time which is 43200 seconds plus some random amount of time.
+
 I also included a lot of other ways to interact with Instagram and Instagram audiences, but this really seemed like the most effective way to gain followers. 
 
 ## Notes
