@@ -46,6 +46,8 @@ I'd also like to get this project working with SQL, and compile a list of users 
 
 There is another limit Instagram has which is that it will prevent your account from following anyone if you are already following more than 7500 pages. I need to create a function to check my amount of followers, and unfollow those users who don't follow me currently
 
+I wanted to port this project over to my Raspberry Pi, but there is no Google Chrome build for Raspberry Pi 3. There's only Chromium, but I don't think Chromium has a testing environment. The only way that I would be able to get a port of Google Chrome is if I purchased this software: https://eltechs.com/product/exagear-desktop/
+
 ## Notes
 
 The project was compiled in python 3.7
