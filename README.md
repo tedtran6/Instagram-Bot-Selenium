@@ -22,6 +22,13 @@ The particular strategy I was aiming for was in order to get the maximum amount 
     
 From this strategy we should be able follow quite a bit of people. 
 
+The reason why I think this strategy works so well is because I am targeting the audience that…
+1. Likes memes
+2. Already follows meme accounts
+3. Tags their friends in memes
+
+This is so important is because if these users follow me back, they are the kind of audience that will most likely interact with my memes by liking the photos and commenting on them. Furthermore, the fact that the target audience likes to tag their friends also means that they are likely to tag their friends in my posts as well, thus driving even more traffic to my page. 
+
 **Concerining the limits Instagram puts on users:** Instagram purposely sets a lot of invisible limits against the user which prevent mass following and botting. Here are some ways that my program gets around that. 
 * For every person the bot follows or request to follow, it can set a wait time in between.
     * This helps create a kind of cooldown.
@@ -36,3 +43,5 @@ I also included a lot of other ways to interact with Instagram and Instagram aud
 ## Notes
 
 The project was compiled in python 3.7
+
+This is currently unfinished, but I intend on working on it some more later. 
