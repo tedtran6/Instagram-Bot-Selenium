@@ -44,6 +44,12 @@ I also included a lot of other ways to interact with Instagram and Instagram aud
 
 The project was compiled in python 3.7
 
+This is currently unfinished, but I intend on working on it some more later. 
+
+## Functionality I Want to Add
+
 I'd also like to get this project working with SQL, and compile a list of users who currently follow me, and a list of users who I've followed in the past. If I do this, I can prevent accidentally following people who I do not need to target. 
 
-This is currently unfinished, but I intend on working on it some more later. 
+There is another limit Instagram has which is that it will prevent your account from following anyone if you are already following more than 7500 pages. I need to create a function to check my amount of followers, and unfollow those users who don't follow me currently
+
+
