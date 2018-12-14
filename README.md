@@ -4,8 +4,6 @@ This is a bot created for Instagram with the purpose of following users and liki
 
 I originally wanted to create this bot as a means to gain followers, and since the creation of the bot, I've been able to gain a significant amount of followers on my account. The niche that my instagram account was in is the "meme" posting niche, where I would repost funny and relatable content for users of instagram to consume. 
 
-### **[VIDEO of the follow by user account feature](https://drive.google.com/file/d/16bdbqqDCwxRX-Vt-3ip4HXEvBS_aFvhs/view?usp=sharing)**
-
 I was able to create this bot using Selenium and using the *inspect* button on Google Chrome
 
 <img src = "images/image1.png" width = "700">
@@ -13,6 +11,8 @@ I was able to create this bot using Selenium and using the *inspect* button on G
 The strategy that I deploy here is unique from most bots that I've seen around the internet, and I'll go more in depth about that later down in this description.
 
 I primarily wanted to start very low level with my development of this software. In particular, I got the functionality of following and liking photos down first. After this, I created the functionality of following users who comment on a particular post. Then I created the function of following users who comment on a particular *set* of posts that a popular account has in their most recent feed. 
+
+### **[VIDEO of the follow by user account feature](https://drive.google.com/file/d/1zNY-XZJz9Kr2QsLIVNsfhX0v7nMQ8jff/view?usp=sharing)**
 
 The particular strategy I was aiming for was in order to get the maximum amount of followers from using this bot was:
 1. Compile a list of popular meme accounts and funny accounts, and cycle through them
