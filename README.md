@@ -4,6 +4,8 @@ This is a bot created for Instagram with the purpose of following users and liki
 
 I originally wanted to create this bot as a means to gain followers, and since the creation of the bot, I've been able to gain a significant amount of followers on my account. The niche that my instagram account was in is the "meme" posting niche, where I would repost funny and relatable content for users of instagram to consume. 
 
+### **[VIDEO of the follow by user account feature](https://drive.google.com/file/d/16bdbqqDCwxRX-Vt-3ip4HXEvBS_aFvhs/view?usp=sharing)**
+
 I was able to create this bot using Selenium and using the *inspect* button on Google Chrome
 
 <img src = "images/image1.png" width = "700">
