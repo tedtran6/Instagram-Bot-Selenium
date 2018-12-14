@@ -56,3 +56,5 @@ The project was compiled in python 3.7
 
 This is currently unfinished, but I intend on working on it some more later. 
 
+In the video, you can see me going through the first meme page listed in in the accounts to target. From here I go to the most recent couple of posts that the account has posted
+
